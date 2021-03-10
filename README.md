@@ -5,6 +5,7 @@
 - Typescript
 - Javascript
 - SASS
+- ReactJs
 
 # Starting
 
